@@ -66,7 +66,7 @@ A file that uses a map API to compute real-world distances between cities, allow
 Clone the Repository:
 
 - `git clone https://github.com/shravanbishnoi/City-Routing/`
-- Install Required Libraries: Install dependencies listed in requirements.txt, including libraries for graph manipulation, map APIs, and visualization.
+- Install Required Libraries: Install dependencies including libraries for graph manipulation, map APIs, and visualization.
 - Run Notebooks: Execute each notebook in the provided sequence to generate random graphs, apply routing algorithms, and visualize results.
 
 ## Usage
